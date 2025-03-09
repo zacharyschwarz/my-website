@@ -50,3 +50,14 @@ button:hover {
 h2 {
     text-shadow: 1px 1px 3px black;
 }
+#name {
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 3px 3px 5px black;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: normal;
+    color: #f4f4f4;
+    text-shadow: 2px 2px 4px black;
